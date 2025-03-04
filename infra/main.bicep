@@ -29,7 +29,7 @@ param cosmosDatabaseName string = 'mobile'
 param cosmosContainerName string = 'reports'
 param completionDeploymentModelName string = 'gpt-4o-realtime-preview'
 param completionModelName string = 'gpt-4o-realtime-preview'
-param completionModelVersion string = '2024-10-01'
+param completionModelVersion string = '2024-12-17'
 param openaiApiVersion string = '2024-10-01-preview'
 param modelDeployments array = [
   {
